@@ -48,4 +48,4 @@ This project analyzes retail sales data using Microsoft Excel and Google Sheets 
 
 **Diana Banuelos-Ramirez**
 
-Aspiring Data Analyst | Excel | Power BI | SQL | Python
+Aspiring Data Analyst | Excel | Power BI | Google Sheets | SQL
