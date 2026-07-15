@@ -54,4 +54,4 @@ Aspiring Data Analyst | Excel | Power BI | Google Sheets | SQL
 
 ## Dashboard Preview
 
-![Retail Sales Dashboard](Retail%20Analytics%20Image.jpeg)
+![Retail Sales Dashboard](dashboard.jpeg)
