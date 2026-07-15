@@ -49,3 +49,9 @@ This project analyzes retail sales data using Microsoft Excel and Google Sheets 
 **Diana Banuelos-Ramirez**
 
 Aspiring Data Analyst | Excel | Power BI | Google Sheets | SQL
+
+---
+
+## Dashboard Preview
+
+![Retail Sales Dashboard](Retail%20Analytics%20Image.jpeg)
